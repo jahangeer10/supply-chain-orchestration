@@ -1,0 +1,6 @@
+
+supplier_id,supplier_name,location,lead_time_days,reliability_score,contact_email,phone,specialization
+S001,TechParts Inc,New York,5,0.95,contact@techparts.com,555-0101,Electronics
+S002,ComponentCorp,Chicago,7,0.88,sales@componentcorp.com,555-0202,Mechanical Parts
+S003,AssemblyPro,Los Angeles,10,0.92,orders@assemblypro.com,555-0303,Assemblies
+S004,PrecisionMfg,Houston,6,0.90,info@precisionmfg.com,555-0404,Precision Components

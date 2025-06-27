@@ -1,0 +1,5 @@
+
+warehouse_id,warehouse_name,location,capacity,current_utilization,manager,phone,operational_hours
+W001,Central Warehouse,New York,10000,7500,John Smith,555-1001,24/7
+W002,West Coast Hub,Los Angeles,8000,6200,Sarah Johnson,555-1002,6AM-10PM
+W003,Southern Distribution,Houston,6000,4800,Mike Davis,555-1003,24/7
